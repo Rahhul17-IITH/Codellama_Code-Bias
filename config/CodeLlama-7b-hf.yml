@@ -1,0 +1,7 @@
+---
+batch_size: 8
+epochs: 10
+bert_lr: 1.0e-5
+classifier_lr: 1.0e-5
+logdir: /content/drive/MyDrive/Codellama_Code-Bias/lstm_random_combine_log_CodeLlama-7b-hf
+code_model: CodeLlama-7b-hf
